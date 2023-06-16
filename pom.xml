@@ -30,7 +30,7 @@
     </dependencies>
 
     <build>
-        <finalName>mytest.jar</finalName>
+        <finalName>mytest</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
