@@ -8,7 +8,7 @@ public class TestController {
 
     @GetMapping("/test")
     public String test(){
-        return "Hello Jenkins!";
+        return "Hello Jenkins! --- v1.0.0";
     }
 
 }
